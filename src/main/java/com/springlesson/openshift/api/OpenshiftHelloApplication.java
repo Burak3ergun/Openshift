@@ -13,7 +13,7 @@ public class OpenshiftHelloApplication {
 	@GetMapping("/")
 	public String welcome() {
 		
-		return "Hello Openshift" ;
+		return "Hello Openshift V2" ;
 		
 	}
 	
